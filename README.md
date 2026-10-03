@@ -14,8 +14,9 @@ An end-to-end, multi-class Natural Language Processing and Machine Learning appl
 - **Linguistic Feature Attribution**: Direct inspection of SVM n-gram coefficient weights driving predictions.
 
 ---
-
-
+## Deployed URL:
+https://flipkart-sentiment-app-3ygjfs2hqckifrnzlk8jjs.streamlit.app/
+---
 ## 📂 Project Structure
 
 ```text
@@ -38,7 +39,3 @@ Flipkart-Sentiment-AI/
 │
 └── assets/
     └── logo.png                       # UI branding assets
-'''
-
-## Deployed URL:
-https://flipkart-sentiment-app-3ygjfs2hqckifrnzlk8jjs.streamlit.app/
