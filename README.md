@@ -37,3 +37,6 @@ Flipkart-Sentiment-AI/
 │
 └── assets/
     └── logo.png                       # UI branding assets
+
+Deployed URL:
+https://flipkart-sentiment-app-3ygjfs2hqckifrnzlk8jjs.streamlit.app/
