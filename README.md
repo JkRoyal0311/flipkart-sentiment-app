@@ -15,6 +15,7 @@ An end-to-end, multi-class Natural Language Processing and Machine Learning appl
 
 ---
 
+
 ## 📂 Project Structure
 
 ```text
@@ -37,6 +38,7 @@ Flipkart-Sentiment-AI/
 │
 └── assets/
     └── logo.png                       # UI branding assets
+'''
 
-Deployed URL:
+## Deployed URL:
 https://flipkart-sentiment-app-3ygjfs2hqckifrnzlk8jjs.streamlit.app/
